@@ -160,6 +160,6 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "gh-pages": "^3.2.3"
+    "firebase": "^8.8.0"
   }
 }
